@@ -97,13 +97,11 @@ konkursu na stronie internetowej lub wrzucenie kuponu do urny w sklepie.
 
 
 ### WYRÓŻNIKI
-* Z aplikacją współpracuje kilka sklepów
-* Aplikacja promki.me umożliwia założenie profili, w których określenie preferencji automatycznie selekcjonuje promocje, które mogą być dla użytkowników interesujące.
-* Z aplikacją współpracują największe sklepy internetowe oraz porównywarki cenowe co umożliwia przekazanie natychmiastowej informacji o dostępnych promocjach.
-* Nasi użytkownicy korzystający z programu lojalnościowego dzięki udostępnianiu informacji o najnowszych i najlepszych promocjach mogą otrzymywać punkty wymienne na pakiety czasowe go dostępu do pierwszeństwa informacji o najnowszych promocjach.
-
-
-
+* Z naszym zespołem współpracuje wiele marek i ich grono stale się powiększa.
+* Baza danych bota jest codziennie aktualizowana.
+* W bocie można znaleźć oferty największych sklepów internetowych jak i popularnych sklepów czy dyskontów spożywczych.
+* Do bota można pisać 24h/dobę i zawsze udzieli nam satysfakcjonującej odpowiedzi.
+* Przewagą bota jest to, że można się z nimi porozumiewać podobnie jak z człowiekiem, co czyni z niego przyjazne medium informacji.
 
 
 ### ZESPÓŁ
