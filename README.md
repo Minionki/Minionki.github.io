@@ -11,6 +11,7 @@
 
 # Spis treści
 * PROBLEM
+* ROZWIĄZANIE
 * JAK TO DZIAŁA?
 * RYNEK
 * KONKURENCJA
@@ -25,6 +26,15 @@
 * Występuje problem z wyborem sklepów, do których można się udać
 * Brak znajomości ofert różnych konkurencyjnych sklepów
 * Brak rozeznania w różnorodności sklepów na dzisiejszym rynku
+
+
+
+
+### ROZWIĄZANIE
+Nasz bot rozwiązuje problem związany z brakiem czasu. Sam wyszukuje najbardziej interesujące oferty, bez konieczności samodzielnego ich śledzenia.
+Aplikacja daje możliwość określania swoich preferencji i zainteresowań, na podstawie których szybko wyszukiwane są promocje w konkretnych sklepach. Ta cecha daje klientowi możliwość poznania ofert we wszystkich sklepach znajdujących się w naszej bazie.
+Klienci dzięki aplikacji poznają marki, które być może do tej pory były dla nich nieznane, a są godne uwagi ze względu na swoje promocyjne ceny produktów bądź usług. Poszerza to wiedzę klientów na temat rynku oraz daje możliwość lepszego spełnienia ich oczekiwań.  
+Klient ma możliwość nabycia produktów pełnowartościowych za niższa cenę. Dostępne promocje w aplikacji są dobrym sposobem na zwiększenie domowego budżetu nie zmniejszając jednocześnie standardów życia.  
 
 
 
